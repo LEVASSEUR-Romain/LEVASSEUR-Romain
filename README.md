@@ -58,7 +58,7 @@
 
 ## Other
 
-[![Github](https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)]()
+[![Github](https://img.shields.io/badge/github%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white)]()
 
 <br />
 
