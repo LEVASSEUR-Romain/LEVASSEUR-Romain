@@ -1,7 +1,6 @@
 # Bonjour a tous, je suis Romain LEVASSEUR <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8E%B4-red?style=for-the-badge&logo=about.me&color=ea4c89&link=https://fredkiss.dev)](https://levasseurcv.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%F0%9F%92%BC-blue?style=for-the-badge&logo=linkedin&color=0077B5&link=https://www.linkedin.com/in/adrien-kissie-3b6b32162/)](https://www.linkedin.com/in/romain-levasseur-3654bb251/)
 
 ## Je suis développeur web
 
